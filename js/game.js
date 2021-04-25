@@ -94,7 +94,7 @@ class Game{
                  }
                  
                   if (player.index !== null) {
-                    // destroy(fruits);
+                    destroy(fruits);
                   }
     }
 
